@@ -17,3 +17,6 @@ This application includes some starter code so that we could maintain a current 
 * Create a cookie that holds a key for "currentUser" when a user logs in.
 * Delete that cookie when a user logs out.
 * Add the value of "current user" to all views
+
+## Submission
+Send a link to your forked repository in slack!
